@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fatima Javed Tambra - Self Introduction</title>
+    <style>
+        body {
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid SlateBlue;
+        }
+
+        h1, h2 {
+            background-color: rgb(106, 90, 205);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        ul {
+            list-style-type: circle;
+            padding-left: 20px;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>FATIMA JAVED TAMBRA</h1>
+
+    <h2>Self-Introduction</h2>
+    <p>My name is FATIMA. I am 22 years old and currently pursuing my bachelor's degree. I completed my matriculation from CITY MODEL HIGH SCHOOL. My life ambition is to become a great writer.</p>
+
+    <h2>Education</h2>
+    <p>University of Sialkot, Sialkot, PAKISTAN</p>
+    <ul>
+        <li>Doing bachelor's in computer sciences, CGPA 2.96.</li>
+    </ul>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading.</li>
+        <li>Creativity.</li>
+        <li>Cooking.</li>
+        <li>Writing.</li>
+    </ul>
+
+    <h2>Projects List</h2>
+    <ul>
+        <li>Restaurant management system.</li>
+        <li>School management system.</li>
+        <li>Currently working on an IoT-based automatic wheat seeding, sowing, and spraying agricultural robot.</li>
+    </ul>
+
+    <h2>What I Want to Do for My Country</h2>
+    <p>I love my Pakistan, and I am determined to serve my country to the best of my abilities. As a proud citizen of this nation, I will strive to become a great citizen.</p>
+
+    <h2>Contact Information</h2>
+    <p>Location: SIALKOT, PAKISTAN</p>
+    <p>Phone: 03328866868</p>
+    <p>Email: <a href="mailto:Fatimajaved624@gmail.com">Fatimajaved624@gmail.com</a></p>
+</body>
+</html>
